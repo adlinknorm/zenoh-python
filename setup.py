@@ -54,10 +54,10 @@ setup(
         "Operating System :: Microsoft :: Windows",
     ],
     keywords="Networks network",
-    url="https://github.com/eclipse-zenoh/zenoh-python",
+    url="https://github.com/adlinknorm/zenoh-python",
     project_urls={
-        "Bug Tracker": "https://github.com/eclipse-zenoh/zenoh-python/issues",
-        "Source Code": "https://github.com/eclipse-zenoh/zenoh-python",
+        "Bug Tracker": "https://github.com/adlinknorm/zenoh-python/issues",
+        "Source Code": "https://github.com/adlinknorm/zenoh-python",
         "Documentation": "https://readthedocs.org/projects/zenoh-python/",
     },
     rust_extensions=[RustExtension("zenoh", "Cargo.toml",
